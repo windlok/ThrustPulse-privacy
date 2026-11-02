@@ -1,4 +1,4 @@
-# Gizlilik Politikası – SkyVerge
+# Gizlilik Politikası – ThrustPulse
 
 Son güncelleme: 15/10/2026
 
@@ -33,7 +33,7 @@ Son güncelleme: 15/10/2026
 
 ---
 
-# Privacy Policy – SkyVerge
+# Privacy Policy – ThrustPulse
 
 Last updated: 15/10/2026
 
